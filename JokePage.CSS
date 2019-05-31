@@ -1,4 +1,4 @@
-<link href="http://fonts.googleapis.com/css?family=Bangers" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Bangers&display=swap" rel="stylesheet">
 #joke {
     text-align: center;
     margin: auto;
@@ -6,11 +6,11 @@
     font-size:3rem;
     color: #FFF748;
     color: yellow;
-    font-family: 'Bangers';
+    font-family: 'Bangers', cursive;
   }
 
 #title {
-    font-family: 'Bangers', serif;
+    font-family: 'Bangers', cursive;
     padding: 30px;
     font-size:4rem;
     color: white;
