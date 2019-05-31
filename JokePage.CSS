@@ -1,13 +1,15 @@
 #joke {
     text-align: center;
     margin: auto;
-    width: 95%;
-    height: 60%;
     padding: 85px;
     font-size:3rem;
     color: #FFF748;
     color: yellow;
   }
+
+#title {
+    style="padding: 30px ; font-size:4rem ; color: white ; text-decoration: underline;
+}
  
 
  
