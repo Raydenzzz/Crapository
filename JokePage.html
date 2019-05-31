@@ -19,7 +19,7 @@
                     url: "https://api.icndb.com/jokes/random?firstName="+name+"&lastName="+lastname,//put here the user name
                     dataType: "json",                                                        //replace the firstName in the user name and the last name in the same.
                     success: function (msg) {
-                        $("#joke").html("- " + msg.value.joke);
+                        $("#joke").html("-" + msg.value.joke);
                     },
                     error: function (req, status, error) {
                          alert(req + " " + status + " " + error);
